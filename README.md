@@ -94,3 +94,9 @@ This subject teaches practical field methodologies for cultural documentation, f
 [Folklife and Fieldwork: An Introduction to Cultural Documentation, 4th Edition (Stephen Winick and Peter Bartis / Library of Congress)](https://www.loc.gov/folklife/fieldwork/) - The primary practical field manual for cultural documentation, covering research design, ethics, interviewing techniques, audio-visual recording, and field logging.
 
 [Living Folklore: An Introduction to the Study of People and Their Traditions (Martha Sims and Martine Stephens / Internet Archive)](https://archive.org/details/livingfolklorein0000sims) - A complementary academic guide; read Chapters 6 and 7 for structured instructions on framing research questions, analyzing fieldwork data, and writing ethnographic folklore studies.
+
+## Supplementary free web resources
+
+Accessible companions for independent learners (not a substitute for the curriculum readings above):
+
+- [MythCairn](https://mythcairn.com/) — free explainers on world myths, motifs, and folklore topics for general readers and students.
